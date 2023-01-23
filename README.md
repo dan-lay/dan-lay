@@ -43,7 +43,7 @@ Technologies Used:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-13111C?style=for-the-badge&logo=railway&logoColor=white)
-![Tone.js](https://img.shields.io/badge/Tone.js-F734D7?style=for-the-badge&logo=tone.js&logoColor=22DBC0&labelColor=22DBC0)
+![Tone.js](https://img.shields.io/badge/Tone.js-F734D7?style=for-the-badge&logo=tone.js&logoColor=22DBC0)
 
 ### :gear: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-lay&theme=blue-green" /> <img src="https://github-readme-stats.vercel.app/api?username=dan-lay&theme=blue-green" />
