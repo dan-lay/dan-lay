@@ -15,7 +15,7 @@ A little about me:
 - 🔭 I’m currently working on website clones
 - 🌱 I’m currently learning DS&As
 - 👯 I’m looking to collaborate on fullstack projects
-- 📫 How to reach me: Email: <p style="color:#108D0F;">mr.danlay@gmail.com</p> 📫 
+- 📫 How to reach me: Email: mr.danlay@gmail.com 📫 
 
 
 Technologies Used:
