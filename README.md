@@ -6,7 +6,7 @@
 
 
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Dan+Lay;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=108D0F&width=435&lines=Hello%2C+I'm+Dan+Lay+%F0%9F%91%8B;Full+Stack+Web+Developer+%E2%8C%A8%EF%B8%8F;Violinist+%2F+Violist+%F0%9F%8E%BB;Please+have+a+look+around+%F0%9F%98%81)](https://git.io/typing-svg)
 
 
 A little about me :innocent: : 
