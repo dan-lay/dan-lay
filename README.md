@@ -9,7 +9,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=108D0F&width=435&lines=I'm+Dan+Lay+%F0%9F%A4%93;Full+Stack+Web+Developer+%F0%9F%96%A5%EF%B8%8F;Violinist+%2F+Violist+%F0%9F%8E%BB;Please+have+a+look+around+%F0%9F%98%81)](https://git.io/typing-svg)
 
 
-A little about me :innocent: : 
+A little about me: 
 - 🎓 I am a Full Stack Software Engineer 
 - 💻 I'm currently open for work
 - 🔭 I’m currently working on website clones
