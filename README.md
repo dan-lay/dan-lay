@@ -44,7 +44,7 @@ Technologies Used:
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### :gear: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-lay&theme=blue-green" /><div>&nbsp&nbsp&nbsp&nbsp</div><img src="https://github-readme-stats.vercel.app/api?username=dan-lay&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-lay&theme=blue-green" /> <img src="https://github-readme-stats.vercel.app/api?username=dan-lay&theme=blue-green" />
 
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.danlay@gmail.com)
